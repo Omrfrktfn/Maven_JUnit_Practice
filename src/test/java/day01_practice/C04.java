@@ -58,6 +58,5 @@ public class C04 {
             Thread.sleep(1000);
             driver.navigate().back();
         }
-        
     }
 }
